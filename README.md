@@ -1,6 +1,6 @@
 # Class-AB Audio Power Amplifier
 
-## 📄 Project Description
+## Project Description
 
 This project presents the design, simulation, and analysis of a Class-AB audio power amplifier, aimed at achieving an optimal balance between high efficiency and low distortion. The amplifier is implemented using a push-pull output stage with appropriate biasing to minimize crossover distortion while maintaining better efficiency than Class-A configurations.
 
@@ -16,14 +16,14 @@ Overall, this project provides a clear demonstration of Class-AB amplifier princ
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Proteus (Circuit Simulation)
 - KiCad (PCB Schematic Design)
 
 ---
 
-## 🙏 Credits & Acknowledgements
+## Credits & Acknowledgements
 
 The original concept and reference design for this Class-AB amplifier were inspired by the work of  
 **YetAnotherElectronicsChannel**.
@@ -34,6 +34,6 @@ This repository contains independent simulation, PCB schematic design, analysis,
 
 ---
 
-## 📜 License
+## License
 
 This project is shared for educational purposes. Please refer to the original repository for its licensing terms if applicable.
